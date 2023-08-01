@@ -8,3 +8,4 @@ Tech used:
 * NumPy
 * Scikit-learn
 * Pickle
+* HTML CSS JS
