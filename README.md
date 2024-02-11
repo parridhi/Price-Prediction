@@ -3,7 +3,7 @@ The Car Price Prediction project is designed to predict the prices of cars based
 
 The project utilizes a linear regression model to analyze and process the data. The dataset contains information on different car features such as make, model, year, mileage, engine size, and more. By training the model on this data, it learns the relationships between these features and car prices, enabling it to predict the price of a car given its characteristics.
 
-Tech used:
+Tech Stack:
 * Pandas
 * NumPy
 * Scikit-learn
